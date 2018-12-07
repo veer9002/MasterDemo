@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Atlas (1.2.0):
+    - LayerKit (~> 4.0.0)
+  - Kingfisher (4.8.0)
+  - LayerKit (4.0.2)
+  - MessageKit (1.0.0)
+  - Realm (3.7.4):
+    - Realm/Headers (= 3.7.4)
+  - Realm/Headers (3.7.4)
+  - RealmSwift (3.7.4):
+    - Realm (= 3.7.4)
+  - SwiftLint (0.26.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Atlas
+  - Kingfisher
+  - MessageKit
+  - RealmSwift
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Atlas
+    - Kingfisher
+    - LayerKit
+    - MessageKit
+    - Realm
+    - RealmSwift
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Atlas: bacae8c809135268a984a68f0bc1e11086ff6a21
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  LayerKit: da1aa4fbe8ed936c5bf5e2c50504eb099e30e3da
+  MessageKit: 16160036b16476b04bd0e9f2c7ce67e662e503e4
+  Realm: a469bb59e33f9926102ccaea4349822c53b9117e
+  RealmSwift: a45861b21c180f5cf0f122144b9759fa8dde3e9e
+  SwiftLint: f6b83e8d95ee1e91e11932d843af4fdcbf3fc764
+
+PODFILE CHECKSUM: 854ee3f870ee553a47ea0a242d0a6989e5e54ed0
+
+COCOAPODS: 1.5.3
